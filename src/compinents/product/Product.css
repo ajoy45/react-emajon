@@ -1,0 +1,35 @@
+.product img{
+    width: 286px;
+    
+    
+}
+.product-img{
+    text-align: center;
+    padding: 10px 0;
+}
+.product{
+    width: 300px;
+    height: 508px;
+    border: 1px solid gray;
+    margin: 20px;
+    border-radius: 5px;
+    position: relative;
+}
+.product-info{
+    margin-left: 10px;
+   
+}
+.product-info p{
+    margin: 10px 0;
+}
+.product-info h6{
+    font-size: 25px;
+    margin: 0;
+}
+.cart-btn{
+    width: 100%;
+    padding: 15px;
+    position: absolute;
+    bottom: 0;
+    
+}
