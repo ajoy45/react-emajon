@@ -1,14 +1,15 @@
 
 import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+
 import './App.css'
 import Header from './compinents/header/Header'
-import Shop from './compinents/shop/Shop'
+import { Outlet } from 'react-router-dom'
+
 function App() {
   return (
     <div >
       <Header></Header>
-      <Shop></Shop>
+      <Outlet></Outlet>
     </div>
   )
 }

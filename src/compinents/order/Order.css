@@ -1,8 +1,13 @@
-.clear-btn{
+.checkout-btn{
     display: flex;
     justify-content: space-between;
     align-items: center;
     width: 92%;
     background-color: orange;
     margin: 20px auto;
+    padding: 10px;
+}
+.checkout-link{
+    text-decoration: none;
+   
 }

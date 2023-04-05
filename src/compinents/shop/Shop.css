@@ -8,3 +8,6 @@
   grid-template-columns: repeat(3,1fr);
   gap: 52px;
 }
+.order-container{
+  background-color: rgb(230, 193, 125);
+}
